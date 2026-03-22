@@ -1,0 +1,12 @@
+torch>=2.0
+torch-geometric>=2.4
+numpy
+tqdm
+pandas
+control
+scipy
+matplotlib
+conflictfree
+pytest
+tensorboard
+numba
